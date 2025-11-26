@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Youssef Khalid 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ykhali&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ---
 
