@@ -20,7 +20,6 @@
 
 I am a **Computer Science Engineering student** at **EMSI** and currently pursuing a **Master’s degree in Applied Artificial Intelligence (IA2)** at the **University of Nice Sophia Antipolis**.
 
-I bridge the gap between traditional software engineering and modern AI. I enjoy building full-stack applications, designing intelligent systems, and fine-tuning models to solve real-world problems.
 
 > 🚨 **Open for Work:** I am actively seeking a **6-month end-of-study (PFE) internship** starting in **February 2026** in Software Engineering or AI.
 
@@ -64,10 +63,10 @@ I bridge the gap between traditional software engineering and modern AI. I enjoy
 <div align="center">
 
 <a href="https://github.com/Ykhali">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=Ykhali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=Youssef-Khalid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/Ykhali">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykhali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Khalid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
@@ -76,6 +75,3 @@ I bridge the gap between traditional software engineering and modern AI. I enjoy
 
 ---
 
-<div align="center">
-  <p>⭐️ <i>Feel free to explore my repositories and contribute!</i></p>
-</div>
