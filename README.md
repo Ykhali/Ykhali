@@ -20,9 +20,6 @@
 
 I am a **Computer Science Engineering student** at **EMSI** and currently pursuing a **Master’s degree in Applied Artificial Intelligence (IA2)** at the **University of Nice Sophia Antipolis**.
 
-
-> 🚨 **Open for Work:** I am actively seeking a **6-month end-of-study (PFE) internship** starting in **February 2026** in Software Engineering or AI.
-
 ---
 
 ## 🛠 Tech Stack
@@ -38,8 +35,6 @@ I am a **Computer Science Engineering student** at **EMSI** and currently pursui
 ### 💻 **Languages & Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### 🌐 **Web & Mobile**
