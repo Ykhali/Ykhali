@@ -24,6 +24,8 @@ I am a **Computer Science Engineering student** at **EMSI** and currently pursui
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ### 🧠 **Artificial Intelligence & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -36,8 +38,8 @@ I am a **Computer Science Engineering student** at **EMSI** and currently pursui
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 ### 🌐 **Web & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -51,6 +53,18 @@ I am a **Computer Science Engineering student** at **EMSI** and currently pursui
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+_Projects coming soon..._
+
+</div>
 
 ---
 
@@ -70,4 +84,3 @@ I am a **Computer Science Engineering student** at **EMSI** and currently pursui
 <br/>
 
 ---
-
