@@ -18,7 +18,7 @@
 
 ## 🧐 About Me
 
-I am a **Computer Science Engineering student** at **EMSI** and currently pursuing a **Master’s degree in Applied Artificial Intelligence (IA2)** at the **University of Nice Sophia Antipolis**.
+I am a **Software Engineering student** at **EMSI** and currently pursuing a **Master’s degree in Applied Artificial Intelligence (IA2)** at the **University of Nice Sophia Antipolis**.
 
 ---
 
