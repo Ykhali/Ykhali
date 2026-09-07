@@ -33,6 +33,7 @@ I am a **Software Engineering student** at **EMSI** and currently pursuing a **M
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-000000?style=flat-square)
 
 ### 💻 **Languages & Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
