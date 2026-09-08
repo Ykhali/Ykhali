@@ -71,15 +71,6 @@ I am a **Software Engineering student** at **EMSI** and currently pursuing a **M
 </a>
 
 </div>
-<div align="center">
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Ykhali&show_icons=true&theme=tokyonight" />
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykhali&layout=compact&theme=tokyonight" />
-
-</div>
 
 <br/>
 
