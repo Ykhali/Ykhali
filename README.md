@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Khalid Youssef 👋
+# Hi, I'm Youssef KHALID 👋
 
 
 ### 👨‍💻 Software Engineer | 🤖 AI Enthusiaste
@@ -18,7 +18,7 @@
 
 ## 🧐 About Me
 
-I am a **Software Engineering student** at **EMSI** and currently pursuing a **Master’s degree in Applied Artificial Intelligence (IA2)** at the **University of Nice Sophia Antipolis**.
+I am a recent Software Engineering graduate from EMSI and hold a Master’s degree in Applied Artificial Intelligence (IA2) from Université Côte d’Azur, France.
 
 ---
 
